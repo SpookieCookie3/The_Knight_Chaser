@@ -8,4 +8,5 @@ An LED chaser on a PCB shaped into the head of the Knight from the game Hollow K
 <img width="1019" height="670" alt="image" src="https://github.com/user-attachments/assets/e039f954-304c-4a8e-ae18-aa927610b6d9" />
 
 # BOM
-<img width="1930" height="1033" alt="image" src="https://github.com/user-attachments/assets/608dabd1-b003-44c8-a98e-c8b362810007" />
+<img width="1781" height="838" alt="image" src="https://github.com/user-attachments/assets/c0f81763-f113-49e2-b95f-61232b314a13" />
+
